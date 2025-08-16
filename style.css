@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding:0;
+}
+footer{
+    background-color:black;
+    height:150px;
+    max-width:1900px;
+    padding:64px 0 32px 0;
+}
+.list li{
+    color:white;
+    display:inline-block;
+    margin-left:20px;
+    margin-bottom:30px;
+}
+.paragraph{
+    color:white;
+       text-align:center;
+}
+.icon{
+    font-size:50px;
+    height:50px;
+}
+.list li:hover{
+    color:rgb(149, 149, 233);
+    transition:0.5s;
+}
+.paragraph:hover{
+    font-size:35px;
+}
